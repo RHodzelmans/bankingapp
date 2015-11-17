@@ -1,0 +1,5 @@
+GITURL=git://$(hostname)/demo/bankingapp
+PROXY=http://$(hostname):8080/
+MYSQL_USER="bankingapp"
+MYSQL_PASS="jmTd3T3I"
+MYSQL_DATABASE="bankingapp"
