@@ -6,11 +6,11 @@
 	<version>0.1</version>
 	<packaging>war</packaging>
 	<name>restapi</name>
-
 	<repositories>
 		<repository>
 			<id>jboss-fuse-repository</id>
-			<url>http://repo.fusesource.com/nexus/content/groups/public/</url>
+			<!-- http://repo.fusesource.com/nexus/content/groups/public/ -->
+			<url>http://landing.coe.muc.redhat.com/nexus/content/groups/public/</url>	
 			<releases>
 				<enabled>true</enabled>
 			</releases>
